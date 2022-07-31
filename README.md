@@ -1,2 +1,2 @@
 # ndvprojectUSCOVID
-narrative visualization project
+narrative visualization project - US Covid-19 2021
